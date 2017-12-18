@@ -306,6 +306,29 @@ This one looks fat. But, we can kind of prove it by picking up one of the table 
 and you can rotate this guy around. If I do it just carefully you can see it just fits nicely
 here. In fact I originally got this table talk from over here and rotated it and put it over there.
 
+23:19
+So this is an interesting problem here: That we actually are fooled in a way that we
+cannot see even after it's proven that we were fooled.
+I have done this hundreds of times and I still see this as long and skinny and this is short and fat.
 
+23:39
+Another thing about our brain is as it's basically about dealing with now and simple changes, and now and simple extrapolations.
 
+23:53
+So almost everything we think about when there's a change,
+it has this simple incremental way of thinking about it, but usually we're actually embedded
+in something like this particular in the last few hundred years and particularly in the last 50 years.
 
+24:10
+And we just can't see this guy without something special. Just as an artist would have to
+measure those tabletops in order to draw them accurately, we have to do measurements and use
+mathematics in order to be able to see something that looks like this is actually one of these guys.
+
+24:30
+And far too many politicians, both past, present, and I'm afraid in the future,
+are going to be fooled by this.
+
+24:39
+So again our common sense is to aggregate things.
+So when we think about what can we make from bricks,
+the simple way of aggregating bricks is in a pile or in a kind of a stack.
