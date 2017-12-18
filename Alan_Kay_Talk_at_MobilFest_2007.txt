@@ -370,4 +370,736 @@ One of the things that they found are that all human groups,
 maybe they've looked at three or four thousand human groups,
 have a set of traits that is the same from group to group.
 
-26:28
+26:27
+So every group has gotten good at coping.
+
+26:30
+That's why they still around.
+
+26:32
+They cope partly through cultural knowledge.
+
+26:35
+They're social. They have a language a culture.
+
+26:39
+They have fantasies. They tell stories.
+
+26:41
+They have tools, art, technologies, and so forth.
+
+26:45
+A whole bunch of things over here that are common.
+
+26:47
+ Every culture has a somewhat different...
+
+26:52
+Actual cultures have different somewhat different actual religions.
+They have different actual stories.
+
+26:57
+But, the general traits here are the same 
+from human being to human being.
+
+27:04
+So once you lay out these human universals
+it's interesting to look into various
+cultures around the world for things
+that are universal.
+
+27:14
+And you find things like this for instance, the notion of
+progress is modern.
+
+27:19
+It's not a not an old idea at all because the old days you
+were just trying to survive.
+
+27:24
+You weren't trying to progress at all and almost all
+of the strategies in traditional
+cultures are for for coping rather than
+progressing.
+
+27:34
+Most people have lived and died on the earth without ever learning
+to read and write.
+
+27:39
+Without having a deductive, abstract mathematics,
+model-based science, and so forth.
+
+27:44
+Equal rights is an invention.
+
+27:47
+There's no traditional culture that anthropologists
+have ever found that has this idea,
+particularly for women.
+
+27:53
+And so you get
+these rare ideas over here that are
+almost certainly human inventions.
+
+28:00
+And if you think about it much of civilization
+depends on learning these things [points to "Progress" column list on slide]
+rather than these [points to "Coping" column list on slide]
+and much of modern education
+is about trying to teach these things [points to "Progress" column list on slide].
+
+28:10
+Because they're generally more difficult
+to learn and they're more difficult to
+teach because they're less natural than
+these human universals.
+
+28:20
+So a lot of what we should be thinking about when we're
+trying to deal with education and make
+positive changes in education is, "How can
+we do this stuff better?"
+
+28:30
+"How can we find more of these guys better?"
+
+28:35
+So another McLuhan idea here is what I
+really like he says, "Don't worry about
+whether it's right or wrong, just try to
+find out what is going on."
+
+28:48
+What he might mean here is that right or wrong
+we think of as absolutes but they're
+always relative to our belief structures.
+
+28:56
+If there's one thing that we've
+learned over the last four or five
+hundred years is that things we believe
+a few hundred years ago have turned out
+not to be so.
+
+29:06
+Many of the most disastrous things we've done over the
+last few hundred to a few thousand years
+have been because of incorrect beliefs.
+
+29:14
+So science is a way of trying to get
+around our tendency to believe in thing
+and trying to find out what's going on.
+
+29:21
+So this is great general advice from
+Marshall McLuhan...
+
+29:31
+And in the wonderful OLPC EXO
+to do things that are like LOGO like
+Mitchel Resnick Star logo and like the
+29:41
+small talk stuff that we did it's dark
+29:43
+spark long time ago
+
+29:48
+So as an example we can write a little script here the
+script says, "I'm going to set the cars
+speed to 40 each time" and "I'm going to
+change the cars left/right position each
+time by the cars speed".
+
+30:03
+So if I tell it to do it I'm going to drop a dot down
+and these dots are 40 units apart and so
+we can see that if I were to make this
+thing run by itself I get a uniform
+velocity there and I have a visual
+pattern with those dots of what a
+uniform velocity is...
+
+30:35
+Which is equal distances traversed in each ticket of
+time there I can try something else.
+
+30:41
+I can try say okay instead of that I'm
+going to increase by 30 each time
+
+30:51
+If I run the program I got something like
+this the car takes off very very quickly,
+
+30:56
+and even though I can see what's going
+on here that each one of these is 30
+longer than the other it's also
+sometimes helps to do a little
+measurement
+
+31:06
+So one way to measure is by taking a little taking a
+little rectangle here and making it run
+from the beginning of one of these guys
+let's make it run from the end the end
+of one of these guys to the end of the
+of the next one here kind of like that.
+
+31:32
+And for each one of these things I have
+to have a slightly larger rectangle so I
+got something that's kind of like this.
+
+31:45
+Now if I stack these guys up here kind
+of like... yes...
+
+31:59
+I can see here that the that the excess
+between these guys is... okay... oops.
+
+32:41
+Okay. So now if I stack them up and do it
+carefully enough what happens when you
+get old it's hard to see.
+
+33:06
+It's something like this
+and actually I'm going to do this one
+again. This is too messy. Yeah
+
+33:38
+Okay. So I'll transition into this one
+again. So we can actually experience some of
+these ideas by using our XO.
+
+33:57
+I'm using. The E-toys software that lens on the XO
+here to have this little car here that
+is gonna be driven by this little script
+here.
+
+34:12
+So the speed is always going to be
+30 and I'm going to increase the car's
+position by third by the car speed each
+time.
+
+34:23
+So if I let it run here I get a
+trail of dots because the speed is
+constant.
+
+34:30
+And the dots are 30 apart so if
+I change the speed each time for
+instance if I say let's increase the
+speed by 30 each time and let the car
+run what does it look like the car just
+takes off and I get this pattern that
+shows that in this you know time we went...
+
+34:53
+this far in this unit time we went that
+far plus 30 and this time we went that
+far plus 30 and so forth.
+
+34:59
+So I get a kind
+of a visual pattern of what the
+accelerated speed looks like and if I do
+that with some children a couple of
+months before a physical experiment we
+can get some interesting results.
+
+35:18
+So here's a a bunch of fifth graders and
+the objects that you think will fall to
+the earth at the same time like this.
+
+35:33
+Okay. Not pay any attention to what
+anybody else
+dropping the same speed.
+
+36:29
+Galileo kid here. It was a little girl
+who jumped to the same conclusion that
+Galileo did 400 years ago which is well...
+
+36:39
+What we should do is actually just
+try dropping a heavy one in the light
+one and we can hear whether they hit the
+ground at the same time or not.
+
+36:48
+So obviously Aristotle did not ask a child
+and Saint Thomas Aquinas did not ask a
+child either because he believed what
+Aristotle said.
+
+37:00
+So perhaps Galileo was the first adult in history to be
+able to think like children can think
+
+37:05
+Kind of an interesting common theory
+then we can look at this closer by
+taking a movie.
+
+37:15
+So here's a movie of the ball dropping and we can see what when
+it's when it's dropping continuously
+it's hard to see what's going on.
+
+37:21
+Even when we even when we single step it
+it's hard to see what's going on but if
+we look at every fifth frame here we can
+see a little bit more what's going on.
+
+37:37
+If we stack up those fifth every
+fifth frames we can see a pattern here...
+
+37:42
+that when the children see that they say,
+"Oh! Acceleration." So the question is,
+
+37:58
+"How to measure the acceleration?"
+
+38:01
+And what they do here is by measuring from
+the bottom of one ball on this frame to
+the bottom of the ball here are
+measuring from the bottom here to here
+
+38:12
+So they get something like this and
+if they stack these these up carefully,
+
+38:29
+this gets harder and they get older the
+stack these up like this then they say,
+
+38:37
+"Oh, the XS from here to here is this
+strip and the XS from the yellow on to
+the next one is this and the XS from
+next one to this one and that's constant."
+
+38:49
+So this pattern is a pattern of
+constant acceleration.
+
+38:54
+Let's listen to how Tyrone actually did this.
+
+39:00
+"...to be sure that I was doing it just right I got a
+magnifier which would help me figure out
+if the size was just right. After I'd
+done that I would go and click on the
+little basic category buddy...
+
+39:18
+...and then a little mini would pop up and one of the
+categories would be geometry so I click on that.
+
+39:25
+And here it has many things that
+have to do with the size and shape of
+the rectangle so I would see what
+the height is and I kept going along the process
+until I had them all lined up with their
+height.
+
+39:42
+I subtracted the smaller one's
+height from the big one to see if there
+was a kind of pattern
+anywhere that could help me.
+
+39:50
+And my guess weren't... so in order to show that it
+was working I decided to leave a dot copy so it
+would show if the ball was going the exact right
+speed and acceleration."
+
+40:01
+[Alan starts speaking again] This is
+pretty cool. He decides to drop a dot
+from his simulated ball and shows that
+it matches up with the stacked frames here.
+
+40:13
+Another way to to do this is to run
+a movie and the animation at the
+same time.
+
+40:27
+So, by the way, 70% percent
+of college students fail to understand
+Galileo and gravity.
+
+40:33
+But, most fifth graders that we've worked with using
+this way of doing it, this kind of
+mathematics and this kind of approach,
+and doing their own simulations on the
+OLPC machine, are able to understand it
+much much better than most college
+students.
+
+40:50
+So a payoff here is this
+little gravity script that they come up
+with can be used to make things move the
+way gravity makes things move on things
+more interesting than balls, like a
+spaceship.
+
+41:06
+So they start that script
+running on the spaceship, it will be
+drawn down to the surface of the moon,
+and will crash, but we can add a motor
+here so we can think of...
+
+41:23
+gravity is a velocity eater and the motor is a
+velocity producer.
+
+41:27
+You have a little script here to show a flame from the
+rocket ship when the motor is on.
+
+41:33
+And this little script decides whether
+there's a crash or not if the ship is
+going too fast when it hits.
+
+41:41
+So if I start the game and grab on to the
+joystick here, you see I can
+oppose gravity here and land it
+carefully and not get a crash this time.
+
+41:55
+This is a game people used to pay money
+with.
+
+41:58
+So another way of thinking about
+things is that simple cause-and-effect
+relationships, like gears, don't scale
+very well.
+
+42:05
+So you can build a clock,
+perhaps out of a thousand gears, but then
+it gets really complicated to build more
+complicated things out of gears,
+
+42:13
+And simple connections of wires
+between things starts getting really
+complicated.
+
+42:18
+[Shows slide of a room with many wires connected to various devices.]
+This is an actual room, I
+won't say where, and there's a sign here
+that says, "Do not touch any of these
+wires." 
+
+42:28
+So the research group I was part
+of, the ARPA/PARC research group, realized
+that you can replace any mess like this
+with a simple message sending Network
+like an Ethernet or an Internet.
+
+42:41
+And all things large and small that have to be
+connected together can be connected in a
+very simple way.
+
+42:48
+This simple way is actually a looser coupling way than
+tightly tying wires together.
+
+42:53
+This is another outlook that we have to think about.
+
+42:58
+So here's a really simple example of using the gravity thing we just
+discovered.
+
+43:05
+So the gravity is working on
+that green line, you can think
+of it as being a lid on top of these
+atoms. The atoms are being moved around
+because they're hot.
+
+43:24
+Temperature is motion
+and they're exchanging momentum with the
+green lid.
+
+43:30
+And so they're keeping that lid up.
+
+43:33
+And we have a thousand of these
+going so this is a using a version of
+Mitchel Resnick's Star LOGO that we
+made in Squeak.
+
+43:44
+So if I turn that turtle count into 500 here,
+the weight of this lid is being pushed upwards by half the
+number molecules.
+
+44:03
+And so what happens is we have
+a pressure decrease that lowers this
+thing about halfway down.
+
+44:09
+You can see this.
+
+44:21
+If I put in say, 2000, here I get an explosion
+and some nice shockwaves.
+
+44:34
+But, eventually it
+settles into an equilibrium that's
+about twice what it was with a thousand.
+
+44:39
+So you can see some simulations here of
+Boyle's law done with this very nice
+simple computer simulation that children
+can easily make up to understand how
+aggregates of lots of things actually
+work together.
+
+44:59
+This extends our notion of outlook.
+
+45:00
+So the outlook of Newtonian
+physics, and so much of the 18th
+century, and some of 19th century physics,
+and a lot of the ways we teach
+mathematics and science today, is kind of
+this very tightly bound cause-and-effect
+relationship but the latter part of the
+20th century in many many ways has
+gotten much more biological.
+
+45:29
+So we can think of this as a transition from gears
+to biology and this transition is not
+just in the world of molecular biology,
+but also the Internet is made this way...
+
+45:41
+and object-oriented programming is made
+this way it's kind of a no centers
+distributed loose coupling way
+modeling things and so this way of
+thinking about things is the probably
+the most comprehensive most powerful way
+we have of thinking about complexity today.
+
+46:03
+So it's natural to try and
+think as hard as possible about how we
+might help children learn this and one
+of the ways of doing this is by having
+them make ever more complex models on
+the computer and to see the unintended
+emerging properties that come from
+dealing with many objects loosely
+coupling working together.
+
+46:36
+So we've all heard about the blind men and the
+elephant trying to figure out what it is
+and if there's an elephant in education
+modern education today that element is
+mathematics.
+
+46:51
+The last couple of years I've been traveling around talking to
+teachers at various levels in the United States.
+
+46:57
+And in the United States at least
+if there's a a common denominator to why
+things aren't happening in both math and
+science it's basically at the root is
+that the adults who teach children
+generally lacked Salou insane
+mathematical thinking.
+
+47:20
+And I don't mean knowledge of mathematics. Some adults
+have some knowledge of mathematics that
+the v8 the ability to think heuristic
+alee to be able to represent things that
+haven't been represented before to think
+about relationships between them and all
+of the things that are kind of the
+background knowledge and skills of
+mathematics and of modern science are
+pretty much lacking for most of the K
+through 12 teachers that I've talked to
+mathematical heuristic thinking or
+problem-solving heuristic thinking
+or looking at things from multiple
+points of view heuristic thinking is one
+of the biggest problems that we have to
+face in in the future at least in the
+United States another problem
+again in the United States
+
+
+48:11
+But, I think affecting everywhere is this idea of
+"amusing ourselves to death". My friend,
+Neil Postman, wrote a great book about it.
+
+48:19
+If we were to write that book today I
+think he would entitle it distracting
+ourselves to death because one of the
+ways we're using electronic media is to
+make an enormous amount of different
+kinds of experiences that attract our
+cave-person brains in a way.
+
+48:45
+Many of these experiences are keyed into these
+human universals of things that we want
+to do we want to communicate with other
+people we want to go to the theater we
+want to tell stories and so forth.
+
+48:56
+And now we've been able to multiply that
+with the power of the Industrial
+Revolution and it's produced an
+incredible set of distractors.
+
+49:06
+For instance, there is now a television show
+in the United States that is a contest
+for people playing air guitar with the
+game, "Guitar Hero", so this has gone from
+being a fantasy game to something that
+is now an actual pursuit by people who
+are very, very far from learning anything
+about actually playing a playing guitar.
+
+49:31
+So this is a real disaster and a nice
+quote here is the bull wears itself out
+on the Cape and fails to see the sword.
+
+49:40
+So if we're going to make big changes in
+education we have to somehow get aware
+of the Cape and concentrate more on
+what's important with our limited amount
+of time and our limited ability to use
+our brains and finally maybe one of the
+biggest trans Ising happening today again
+
+50:03
+because of electronic media and because
+of a everybody becoming aware of
+everybody else is this thing that goes
+
+50:14
+to the root of what it means to be a
+human being and especially a human being
+50:21
+in a traditional society as it's for
+50:24
+most people they're trying to live their
+50:27
+life in the present and the meaning of
+50:32
+life is too abstract for them you could
+50:36
+think about a lot of what our impulses
+50:40
+towards civilization have been since the
+50:43
+Greeks and particularly in the last few
+50:45
+hundred years as trying to go from just
+50:48
+experiencing being alive which everybody
+50:51
+has for the last 200 years they're
+50:54
+trying to get more of a handle on what
+50:56
+the meaning of life could be I think we
+50:58
+know enough today to realize that the
+51:01
+meaning of life is something that we can
+51:02
+make up it's part and parcel of what it
+51:05
+means for example to say that people
+51:10
+should have equal rights and to try and
+51:12
+teach children to believe in equal
+51:14
+rights and to try to act as though equal
+51:18
+rights are something that is naturally
+51:22
+in the world rather than something
+51:24
+made up so I think this change from
+51:27
+naturalistic living to a more artificial
+51:32
+but perhaps richer perhaps nicer perhaps
+51:39
+more productive perhaps more progressive
+51:42
+form of living is the kind of thing I at
+51:46
+least would like to strive for
+
+51:47
+I hope everybody else who is interested in
+helping children learn powerful ideas
+will get interested in also.
+
+51:56
+So thank you very much
+again I'm sorry not to be there but I
+was glad to make this video for you and...
+
+52:02
+I hope it helps you think about what it
+means to have a personal computer for
+every child and on the planet. Thank you.
