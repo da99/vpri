@@ -73,5 +73,117 @@ and there would be a real tendency towards triviality.
 And that certainly happened today.
 
 5:40
+And for me I started off in math and science.
+I was a math major and molecular biology major in the mid-60s.
+Around 1966 I saw the first real computer graphics program
+Ivan Sutherland had done a few years before called, Sketchpad.
+It was a completely different use of computers that I was used to.
+I was used to programming big mainframes and here was a system that was done on a
+big mainframe but basically what was interesting was a 10 inch by 10 inch display 
+on which you can draw things. You could give them behaviours, sometimes mathematical
+behaviours. This system would stimulate them dynamically so this is a completely
+different way of looking at computing. My reaction to this was to think of this
+as if you extended it you could do all computing that way.
+So I came up with this idea of dynamic objects.
 
+6:41
+Next thing I saw was Engelbart's vision of personal computing,
+which was not unlike what we have today.
+This picture was taken in 1966. There he is with the mouse he invented.
+He's on a black and white display. He's dealing with hyperlinked documents.
+He's collaborating with people up in Oregon from California.
+So he's doing something that is like the web, maybe a little bit superior to it, about 40 years ago.
+
+7:14
+The idea I got from that was, "Boy, this is hard to do on time sharing. So maybe we should do it on a desktop computer."
+So this wasn't the first personal computer, but it was a pretty modern looking one.
+It had a pointing device, multiple windowed screen, and so forth.
+Because this Flex machine that Ed Cheadle and I did were was aimed at non-computer professionals
+I started visiting people who have been working with non-computer professionals.
+The most interesting person I found was Seymour Papert who been working with children.
+
+7:53
+Papert was a mathematician like I was. He started doing some really profound things with kids.
+Not just having them make pictures on the screen, but actually thinking about these pictures
+in a mathematical way, using an advanced form of mathematics called, Differential Geometry,
+that was actually paradoxically much easier for children to understand.
+
+8:20
+So Seymour would take a young child and get them to close their eyes and walk in a circle with
+their body and ask them what they were doing. They would say, "Well, I'm going a little and turning
+a little, over and over."
+In LOGO, going a little forward and turning a little is "TURN 5"
+and over and over again is "REPEAT". And so if you tell a Turtle to do this, then the Turtle
+would make a perfect circle.
+It doesn't need Cartesian coordinates. It doesn't even need a center because the circle
+is that geometric figure that has constant curvature.
+
+8:58
+So I thought this is the best idea that anybody ever had for computing.
+Which is, "Here is an area where it actually went beyond the book to be able to embody
+a special kind of powerful mathematics in a way that very young children could learn it."
+So I got very excited about that.
+
+9:18
+And my reaction to this was to draw a cartoon on the plane home that showed a couple
+of kids sitting out in the middle of a grass field having just programmed their own game
+of Space War and learned about "f = m a" and other parts of physics.
+Their little DynaBooks here are communicating with each other with wireless communication.
+The research community I was embedded in at that time, the ARPA Research Community, had
+been working on the ARPAnet. I had also started on a wireless version and so I have this notion
+that finally there is a real reason for thinking ahead, that there would be machines like this
+DynaBook and we can make them inexpensively enough for children.
+We could try a lot of Seymour Papert's ideas on them.
+
+10:19
+Then right after that this idea and a bunch of others from other people got concentrated
+at Xerox Parc.
+Here's a cardboard model I made of the that cartoon idea and we decided to build a desktop computer
+again but one that was kind of like what the DynaBook was going to be.
+We invented much of the modern technology that you used today.
+
+10:49
+So we had object-oriented programming, dynamic animation, the windows user interface,
+desktop publishing, the ethernet, the laser printer. We invented part of The Internet and so forth.
+So there's a whole suite of technologies here.
+
+11:07
+Looking ahead to just a few years ahead that set of inventions done at XEROX PARC
+was done by only two dozen people. The reason two dozen people were able to do all that
+is the technology had changed from discrete transistors to integrated circuits that had
+enough components on them so that relatively small numbers of people can build computers all by themselves.
+
+11:34
+The next revolution along these lines is happening now and is just starting to be seen
+in the in the marketplace. But, by about 10 years from now not just displays will be made out of
+conductive plastics, but actually the Entire Computer and these conductive plastic some of them
+can be made by something like an inkjet printer sitting right on your desk.
+
+12:03
+So you imagine now a high school student or college student or computer scientist
+or somebody anywhere in the world who gets an idea for a computer, both hardware and software,
+and can make the entire thing just on their desktop.
+
+12:20
+This is going to be an absolute revolution in both the cost of what it takes to make computers
+but also who will be able to make them. So if we think about what is behind all this it's as
+Mick Jagger would say, "It's only Math. and Science."
+
+12:43
+So essentially what's happening here is instead of requiring 200,000 people to make an Egyptian pyramid
+out of old material what we basically need are 5 to 15 people who really know how to deal with the both
+the physical and informational universe and that is sufficient to allow entirely new inventions to be
+made and spread around.
+
+13:12
+So if we look at these three slides together and think about the Third World
+or the non-developed world what this says is that the development in the non-developed world
+can primarily take place through education by learning new points of view and
+new ways of using the points of view. That the the need for huge steel mills
+or a billion-dollar integrated circuit factories to make computers or in the realm of biology
+of rather large installations to make fermentations of various kinds of bacteria and stuff,
+this is going to change to something that's more like a kitchen science and the key to it is
+going to be the points of view and the kinds of knowledge that people can exert.
+
+14:09
 
