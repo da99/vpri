@@ -1,11 +1,17 @@
 
 0:00
 Thanks very much for inviting me to MobileFest.
-Today i am going to try and say a few words about some of the mobility ideas originally came from, how they affect children and maybe a little bit about how the future is going to turn out.
+Today i am going to try and say a few words about some of the mobility ideas originally came from,
+how they affect children and maybe a little bit about how the future is going to turn out.
 
-What I would like to do is first to look at perhaps the most important mobile tech. to ever been invented. And we can think of this tech. as wanting to encompass the entire organization of human knowledge. We want it
-to be solid state and mobile of course. We want extremely hi-res and high contract, ambient lightnenig 
-display to be used anywhere in the world. Really easy to use basic interface from getting from one place to another in it. It's got to have a wide range of the kinds of knowledge it can hold. It needs have unlimited battery life. And we want it to be bio-degradable so it won't pollute the planet.
+What I would like to do is first to look at perhaps the most important mobile technology
+to ever been invented. And we can think of this tech. as wanting to encompass the entire
+organization of human knowledge. We want it
+to be solid state and mobile of course. We want extremely hi-res and high contrast,
+ambient lighting display to be used anywhere in the world. Really easy to use basic
+interface from getting from one place to another in it. It's got to have a wide range
+of the kinds of knowledge it can hold. It needs have unlimited battery life. And we want it
+to be bio-degradable so it won't pollute the planet.
 
 And of course what I'm talking about here is basica organization of knowledge which is called, "The Book". So this tech. has already been invented. It has change basic human civilization in many ways.
 
@@ -903,8 +909,10 @@ century, and some of 19th century physics,
 and a lot of the ways we teach
 mathematics and science today, is kind of
 this very tightly bound cause-and-effect
-relationship but the latter part of the
-20th century in many many ways has
+relationship.
+
+45:22
+But, the latter part of the 20th century in many, many ways has
 gotten much more biological.
 
 45:29
@@ -915,98 +923,106 @@ but also the Internet is made this way...
 
 45:41
 and object-oriented programming is made
-this way it's kind of a no centers
-distributed loose coupling way
-modeling things and so this way of
-thinking about things is the probably
-the most comprehensive most powerful way
+this way it's kind of a no-centers,
+distributed, loose-coupling way of
+modeling things.
+
+45:53
+So this way of thinking about things is the probably
+the most comprehensive, most powerful way
 we have of thinking about complexity today.
 
-46:03
+46:04
 So it's natural to try and
 think as hard as possible about how we
-might help children learn this and one
-of the ways of doing this is by having
+might help children learn this.
+
+46:11
+One of the ways of doing this is by having
 them make ever more complex models on
 the computer and to see the unintended
 emerging properties that come from
 dealing with many objects loosely
-coupling working together.
+coupling, working together.
 
 46:36
 So we've all heard about the blind men and the
 elephant trying to figure out what it is
-and if there's an elephant in education
-modern education today that element is
-mathematics.
+and if there's an elephant in modern education today
+ that element is, Mathematics.
 
 46:51
 The last couple of years I've been traveling around talking to
 teachers at various levels in the United States.
 
 46:57
-And in the United States at least
-if there's a a common denominator to why
+And in the United States, at least,
+if there's a common denominator to why
 things aren't happening in both math and
 science it's basically at the root is
 that the adults who teach children
-generally lacked Salou insane
+generally lacked fluency in
 mathematical thinking.
 
-47:20
-And I don't mean knowledge of mathematics. Some adults
-have some knowledge of mathematics that
-the v8 the ability to think heuristic
-alee to be able to represent things that
-haven't been represented before to think
-about relationships between them and all
+47:19
+And I don't mean knowledge of mathematics.
+
+47:23
+Some adults
+have some knowledge of mathematics.
+
+47:27
+But, the ability to think heuristically,
+to be able to represent things that
+haven't been represented before, to think
+about relationships between them, and all
 of the things that are kind of the
 background knowledge and skills of
 mathematics and of modern science are
-pretty much lacking for most of the K
-through 12 teachers that I've talked to
-mathematical heuristic thinking or
-problem-solving heuristic thinking
+pretty much lacking for most of the K-12
+ teachers that I've talked to.
+
+47:51
+Mathematical, heuristic thinking or
+problem-solving heuristic thinking,
 or looking at things from multiple
-points of view heuristic thinking is one
+points of view heuristic thinking, is one
 of the biggest problems that we have to
-face in in the future at least in the
-United States another problem
-again in the United States
+face in in the future, at least in the
+United States.
 
-
-48:11
-But, I think affecting everywhere is this idea of
+48:08
+Another problem again in the United States,
+but I think affecting everywhere, is this idea of
 "amusing ourselves to death". My friend,
 Neil Postman, wrote a great book about it.
 
-48:19
+48:18
 If we were to write that book today I
-think he would entitle it distracting
-ourselves to death because one of the
+think he would re-title it, "Distracting
+Ourselves to Death." Because one of the
 ways we're using electronic media is to
 make an enormous amount of different
 kinds of experiences that attract our
-cave-person brains in a way.
+cave-person brains, in a way.
 
 48:45
 Many of these experiences are keyed into these
 human universals of things that we want
-to do we want to communicate with other
-people we want to go to the theater we
+to do. We want to communicate with other
+people, we want to go to the theater, we
 want to tell stories and so forth.
 
-48:56
+48:57
 And now we've been able to multiply that
 with the power of the Industrial
-Revolution and it's produced an
-incredible set of distractors.
+Revolution and it's produced an incredible set of distractors.
 
-49:06
+49:07
 For instance, there is now a television show
 in the United States that is a contest
 for people playing air guitar with the
-game, "Guitar Hero", so this has gone from
+game, "Guitar Hero". So this has gone from
 being a fantasy game to something that
 is now an actual pursuit by people who
 are very, very far from learning anything
@@ -1014,92 +1030,80 @@ about actually playing a playing guitar.
 
 49:31
 So this is a real disaster and a nice
-quote here is the bull wears itself out
-on the Cape and fails to see the sword.
+quote here is, "The bull wears itself out
+on the cape and fails to see the sword."
 
-49:40
+49:41
 So if we're going to make big changes in
 education we have to somehow get aware
-of the Cape and concentrate more on
+of the cape and concentrate more on
 what's important with our limited amount
 of time and our limited ability to use
-our brains and finally maybe one of the
-biggest trans Ising happening today again
+our brains.
 
-50:03
-because of electronic media and because
-of a everybody becoming aware of
-everybody else is this thing that goes
-
-50:14
+49:57
+And, finally, maybe one of the
+biggest trends happening today, again
+because of electronic media, and because
+of everybody becoming aware of
+everybody else, is this thing that goes
 to the root of what it means to be a
-human being and especially a human being
-50:21
-in a traditional society as it's for
-50:24
-most people they're trying to live their
-50:27
+human being, and especially a human being
+in a traditional society.
+
+50:22
+As it's for most people they're trying to live their
 life in the present and the meaning of
-50:32
-life is too abstract for them you could
+life is too abstract for them.
+
 50:36
-think about a lot of what our impulses
-50:40
+You could think about a lot of what our impulses
 towards civilization have been since the
-50:43
 Greeks and particularly in the last few
-50:45
 hundred years as trying to go from just
-50:48
-experiencing being alive which everybody
-50:51
-has for the last 200 years they're
-50:54
+experiencing being alive, which everybody
+has for the last 200 years, they're
 trying to get more of a handle on what
-50:56
-the meaning of life could be I think we
+the meaning of life could be.
+
 50:58
-know enough today to realize that the
-51:01
+I think we know enough today to realize that the
 meaning of life is something that we can
-51:02
-make up it's part and parcel of what it
-51:05
-means for example to say that people
-51:10
+make up.
+
+51:03
+It's part-and-parcel of what it
+means, for example, to say that people
 should have equal rights and to try and
-51:12
 teach children to believe in equal
-51:14
 rights and to try to act as though equal
-51:18
 rights are something that is naturally
-51:22
 in the world rather than something
-51:24
-made up so I think this change from
+made up.
+
 51:27
-naturalistic living to a more artificial
-51:32
-but perhaps richer perhaps nicer perhaps
-51:39
-more productive perhaps more progressive
-51:42
-form of living is the kind of thing I at
-51:46
-least would like to strive for
+So I think this change from naturalistic living to a more artificial,
+but perhaps richer, perhaps nicer, perhaps
+more productive, perhaps more progressive
+form of living is the kind of thing I, at
+least, would like to strive for.
 
 51:47
-I hope everybody else who is interested in
+And I hope everybody else who is interested in
 helping children learn powerful ideas
 will get interested in also.
 
 51:56
 So thank you very much
-again I'm sorry not to be there but I
+again. I'm sorry not to be there but I
 was glad to make this video for you and...
 
 52:02
 I hope it helps you think about what it
 means to have a personal computer for
 every child and on the planet. Thank you.
+
+[Closing Slide:]
+"Most people don't want to know
+the Meaning of Life -- they want to
+Experience Being Alive." -- Joseph Campbell
